@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prpdviewer/static/css/main.03519616.chunk.css",
+    "main.js": "/prpdviewer/static/js/main.78c66a79.chunk.js",
+    "main.js.map": "/prpdviewer/static/js/main.78c66a79.chunk.js.map",
+    "runtime-main.js": "/prpdviewer/static/js/runtime-main.fcb488eb.js",
+    "runtime-main.js.map": "/prpdviewer/static/js/runtime-main.fcb488eb.js.map",
+    "static/js/2.d04663b6.chunk.js": "/prpdviewer/static/js/2.d04663b6.chunk.js",
+    "static/js/2.d04663b6.chunk.js.map": "/prpdviewer/static/js/2.d04663b6.chunk.js.map",
+    "static/js/3.29227b85.chunk.js": "/prpdviewer/static/js/3.29227b85.chunk.js",
+    "static/js/3.29227b85.chunk.js.map": "/prpdviewer/static/js/3.29227b85.chunk.js.map",
+    "index.html": "/prpdviewer/index.html",
+    "static/css/main.03519616.chunk.css.map": "/prpdviewer/static/css/main.03519616.chunk.css.map",
+    "static/js/2.d04663b6.chunk.js.LICENSE.txt": "/prpdviewer/static/js/2.d04663b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcb488eb.js",
+    "static/js/2.d04663b6.chunk.js",
+    "static/css/main.03519616.chunk.css",
+    "static/js/main.78c66a79.chunk.js"
+  ]
+}
